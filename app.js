@@ -16,6 +16,6 @@ function bmiCalculator(weight,height){
     }
         
 }
-var result =  bmiCalculator(65,1.8);
+var result =  bmiCalculator(73,1.665);
 bmiCal.innerHTML = result;
 
